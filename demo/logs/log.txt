@@ -1,0 +1,28 @@
+2019-10-25 20:25:33 start
+2019-10-25 20:25:33 contentRoot:$C:\Users\Igor\source\repos\demo\demo
+2019-10-25 20:25:59 start
+2019-10-25 20:25:59 contentRoot:$C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:17:12 test
+2019-10-25 21:18:44 test
+2019-10-25 21:20:33 test
+2019-10-25 21:21:15 test
+2019-10-25 21:24:29 start v2
+2019-10-25 21:24:29 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:24:29 test
+2019-10-25 21:27:54 start v2
+2019-10-25 21:27:54 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:29:44 start v2
+2019-10-25 21:29:44 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:29:56 ---/ws
+2019-10-25 21:29:56 WS /ws
+2019-10-25 21:29:56 ok IsWebSocketRequest
+2019-10-25 21:30:38 start v2
+2019-10-25 21:30:39 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:32:40 start v2
+2019-10-25 21:32:40 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-10-25 21:43:27 start v2
+2019-10-25 21:43:27 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-11-03 19:42:20 start v2
+2019-11-03 19:42:20 contentRoot: C:\Users\Igor\source\repos\demo\demo
+2019-11-03 19:42:20 ---/api/values
+2019-11-03 19:42:24 ---/
